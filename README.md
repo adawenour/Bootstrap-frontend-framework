@@ -1,0 +1,1 @@
+device-hero.png
